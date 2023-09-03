@@ -17,7 +17,7 @@
              
 #### 💻 Tools
 <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"></a>
-<img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"></a>
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=whit"></a>
 <img src="https://img.shields.io/badge/VMware-231f20?style=flat-square&logo=VMware&logoColor=white"></a>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"></a>
+<img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"></a>
