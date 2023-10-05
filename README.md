@@ -6,13 +6,13 @@
 #### 🛠 Main Tech Stack
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a> 
-<img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=centOS&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=centOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
  
 #### 🔧 Sub Tech Stack
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
              
 #### 💻 Tools
