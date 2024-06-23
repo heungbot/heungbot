@@ -20,3 +20,6 @@
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=whit"></a>
 <img src="https://img.shields.io/badge/VMware-231f20?style=flat-square&logo=VMware&logoColor=white"></a>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"></a>
+
+#### 📄 Certified
+<img src="https://img.shields.io/badge/CKA-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"></a>
